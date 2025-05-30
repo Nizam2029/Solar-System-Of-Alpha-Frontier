@@ -4,7 +4,7 @@
 		"leaderName": "Jo",
 		"adjective": ["Solar System"],
 		"startBias": ["Tundra"],
-		"preferredVictoryType":"",
+		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "Solar System",
 		"startIntroPart2": "Can you build a colony that stands the test of time?",
