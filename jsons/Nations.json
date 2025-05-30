@@ -1,0 +1,63 @@
+[
+  	{
+		"name": "Solar Empire",
+		"leaderName": "Jo",
+		"adjective": ["Solar System"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType":"",
+
+		"startIntroPart1": "Solar System",
+		"startIntroPart2": "Can you build a colony that stands the test of time?",
+
+		"declaringWar": "You war?",
+		"attacked": "Oil",
+		"defeated": "eeeee",
+		"introduction": "eatagaa",
+
+		"neutralHello": "gakkaka",
+		"hateHello": "kallal",
+
+		"denounced": "gg",
+		"tradeRequest": "y",
+
+		"outerColor": [85, 85, 85],
+		"innerColor": [0, 25, 0],
+		"favoredReligion": "Solar Mass",
+		"uniqueName": "N",
+		"uniques": [""],
+		"cities": [
+			"Earth",
+			"Mercury",
+			"Venus",
+			"Mars",
+			"Neptune",
+			"Uranus",
+			"Jupiter",
+			"Saturn",
+			"bwjw",
+			"hsjjs",
+			"s",
+			"jakaa",
+			"jsjaiksksk",
+			"uakskanns",
+			"nsjoaos",
+			"hsjsj",
+			"hsjs",
+			"shshs",
+			"bsjs",
+			"sbn"
+		],
+		"spyNames": [
+			"Spy1",
+			"Spy2",
+			"Spy3",
+			"Spy4",
+			"Spy5",
+			"Spy6",
+			"Spy7",
+			"Spy8",
+			"Spy9",
+			"Spy10"
+		]
+      }
+]
